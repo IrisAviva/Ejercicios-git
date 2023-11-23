@@ -8,31 +8,31 @@ export const data=
 
     {
         id: 2,
-        name: "Poesía",
-        image: "./imagenes/2-Poesía.webp"
+        name: "Poesia",
+        image: "./imagenes/5.jpeg"
     },
 
     {
         id: 3,
-        name: "Filosofía",
-        image: "/imagenes/3 - Filosofía.jpeg"
+        name: "Filosofia",
+        image: "./imagenes/4.jpeg"
     },
 
     {
         id: 4,
         name: "Novela",
-        image: "/imagenes/4 - Novela.jpeg"
+        image: "./imagenes/3.jpg"
     },
 
     {
         id: 5,
         name: "autoayuda",
-        image: "/imagenes/5 - autoayuda.jpg"
+        image: "./imagenes/2.jpeg"
     },
 
     {
         "id": 6,
         "name": "Thiller",
-        "image": "/imagenes/6 - thiller.jpeg"
+        "image": "./imagenes/1.jpeg"
     },
 ]

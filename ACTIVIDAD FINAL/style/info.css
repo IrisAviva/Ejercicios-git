@@ -1,0 +1,14 @@
+.container2{
+   display: flex;
+   align-items: center;
+}
+
+.mision{
+    
+    width: 50%;
+    
+}
+.vision{
+
+width: 50%;
+}
